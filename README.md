@@ -9,3 +9,4 @@ Things I have learned at Bloc.io
   7. Command Line
   8. Text Editor
   9. Git / GitHub
+  10. Learning to code is fun!
